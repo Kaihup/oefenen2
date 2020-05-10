@@ -1,2 +1,7 @@
 nieuwe file
+<<<<<<< HEAD
 regel twee
+=======
+
+Aanpassing Ricky
+>>>>>>> 906e067794952603a94e5b344d72580989d6cd3c
