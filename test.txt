@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 nieuwe file
 
 Aanpassing Ricky
 
+=======
+nieuwe file
+>>>>>>> master
